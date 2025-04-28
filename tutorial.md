@@ -24,7 +24,7 @@ Just for the information, `..` means parent directory, `.` means current directo
 
 #### File Handling/Manipulation
 
-###### Coping a File
+###### Copying a File
 You can also copy and paste using shell as well. In order to copy a file from one subdirectory to another, use the `cp` command:
 ```
 cp source-path/file.ext dest-path/file.ext
