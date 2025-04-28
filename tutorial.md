@@ -31,7 +31,7 @@ cp source-path/file.ext dest-path/file.ext
 ```
 To copy from/to the current directory, use `.` instead of the path or drop the whole `./` .
 
-###### Moving a File
+##### Moving a File
 To move a file from one path to another, use the `mv` command:
 ```
 mv source-path/file.ext dest-path/file.ext
